@@ -1,0 +1,8 @@
+#pip install ffmpeg-downloader
+#ffdl install --add-path
+
+pydub==0.25.1
+pyannote.audio==3.2.0
+ffmpeg==1.4
+accelerate==0.31.0
+transformers
